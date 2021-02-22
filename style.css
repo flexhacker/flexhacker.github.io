@@ -1,0 +1,14 @@
+* {
+    background-color: #121212;
+    color: #bdbdbd;
+}
+.header {
+    background-color: #284978;
+    height: 5%;
+    position: fixed;   
+    top: 0;   
+    left: 0;   
+    z-index: 9999;   
+    width: 100%;
+    text-align: center;
+}
