@@ -6,7 +6,7 @@
 }
 .header {
     background-color: #284978;
-    height: 50px;
+    height: 100px;
     position: fixed;   
     top: 0;   
     left: 0;   
@@ -14,7 +14,7 @@
     width: 100%;
     text-align: center;
     margin-bottom: 5%;
-    font-size: 20px;
+    font-size: 40px;
 }
 .header p{
     background-color: #284978;
